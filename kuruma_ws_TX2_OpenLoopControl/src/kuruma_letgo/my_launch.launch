@@ -1,0 +1,14 @@
+<launch>
+    <!-- Launch the kuruma_letgo_node -->
+    <node name="kuruma_letgo_node" pkg="kuruma_letgo" type="kuruma_letgo_node" output="screen" />
+
+    <!-- Launch the kuruma_signal_convert node -->
+    <node name="kuruma_signal_convert" pkg="kuruma_signal_convert" type="kuruma_signal_convert" output="screen" />
+
+    <!-- Launch the UwbLocation node -->
+    <node name="UwbLocation" pkg="Uwb_Location" type="UwbLocation" output="screen" />
+
+    <!-- Launch the kuruma_can_control node -->
+    <node name="kuruma_can_control" pkg="kuruma_can_control" type="kuruma_can_control" output="screen" />
+</launch>
+

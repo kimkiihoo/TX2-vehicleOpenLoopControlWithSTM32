@@ -1,0 +1,8 @@
+prefix=/home/tianbot/kuruma_ws/src/kuruma_letgo/build/devel
+
+Name: kuruma_letgo
+Description: Description of kuruma_letgo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

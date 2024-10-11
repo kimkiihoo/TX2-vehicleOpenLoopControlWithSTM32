@@ -1,0 +1,8 @@
+prefix=/home/nvidia/kuruma_ws_10/install
+
+Name: kuruma_signal_convert
+Description: Description of kuruma_signal_convert
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240922-0243-Experimental"
+	Name="ros2go"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="ros2go"
+	OSRelease="6.4.11-x64v1-xanmod1"
+	OSVersion="#0~20230817.g1d10c33 SMP PREEMPT_DYNAMIC Thu Aug 17 08:35:27 UTC"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="96"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="7676"
+	TotalPhysicalMemory="15352"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1788.9"
+	>
+	<Testing>
+		<StartDateTime>Sep 22 10:43 CST</StartDateTime>
+		<StartTestTime>1726972986</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 22 10:43 CST</EndDateTime>
+		<EndTestTime>1726972986</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

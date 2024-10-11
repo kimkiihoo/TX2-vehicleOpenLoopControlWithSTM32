@@ -1,0 +1,2 @@
+Uwb_Location:kuruma_can_control:kuruma_letgo:kuruma_signal_convert
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/kuruma_ws_10/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/kuruma_ws_10/install -G Unix Makefiles

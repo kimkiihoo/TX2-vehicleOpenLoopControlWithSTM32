@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nvidia/kuruma_ws_10/src/Uwb_Location/include/Uwb_Location/trilateration.h
+stdio.h
+/home/nvidia/kuruma_ws_10/src/Uwb_Location/include/Uwb_Location/stdio.h
+
+/home/nvidia/kuruma_ws_10/src/Uwb_Location/src/trilateration.cpp
+stdio.h
+/home/nvidia/kuruma_ws_10/src/Uwb_Location/src/stdio.h
+math.h
+/home/nvidia/kuruma_ws_10/src/Uwb_Location/src/math.h
+stdlib.h
+/home/nvidia/kuruma_ws_10/src/Uwb_Location/src/stdlib.h
+time.h
+/home/nvidia/kuruma_ws_10/src/Uwb_Location/src/time.h
+Uwb_Location/trilateration.h
+/home/nvidia/kuruma_ws_10/src/Uwb_Location/src/Uwb_Location/trilateration.h
+iostream
+/home/nvidia/kuruma_ws_10/src/Uwb_Location/src/iostream
+

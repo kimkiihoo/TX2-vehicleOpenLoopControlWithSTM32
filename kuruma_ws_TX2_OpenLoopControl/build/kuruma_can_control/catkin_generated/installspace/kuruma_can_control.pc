@@ -1,0 +1,8 @@
+prefix=/home/nvidia/kuruma_ws_10/install
+
+Name: kuruma_can_control
+Description: Description of kuruma_can_control
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lkuruma_can_control
+Requires: roscpp std_msgs

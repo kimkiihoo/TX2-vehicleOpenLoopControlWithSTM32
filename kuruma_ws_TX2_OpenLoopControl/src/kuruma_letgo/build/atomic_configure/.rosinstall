@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tianbot/kuruma_ws/src/kuruma_letgo/build/devel/setup.sh

@@ -1,0 +1,14 @@
+source devel/setup.bash
+rosrun kuruma_letgo kuruma_letgo_node 
+rosrun kuruma_can kuruma_can
+rosrun kuruma_signal_convert kuruma_signal_convert
+rosrun Uwb_Location UwbLocation
+rosrun kuruma_can_control kuruma_can_control
+//rosrun kuruma_can_deliver kuruma_can_deliver
+
+roslaunch kuruma_letgo my_launch.launch
+rqt_graph
+sudo chmod 666 /dev/bus/usb/001/004
+
+
+
